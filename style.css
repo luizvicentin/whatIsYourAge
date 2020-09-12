@@ -1,0 +1,38 @@
+body {
+    background: #7D8385;
+    font: normal 15pt sans-serif;
+}
+
+header {
+    text-align: center;
+    font-size: 18pt;
+}
+
+section {
+    width: 500px;
+    background: #ced2d3;
+    border-radius: 10px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+}
+
+div {
+    margin: 10px;
+    padding: 8px;
+    text-align: center;
+}
+
+p {
+    margin: 10px;
+}
+
+input {
+    font-size: 12pt;
+}
+
+footer {
+    margin: 15px;
+    text-align: center;
+    font-style: italic;
+}
