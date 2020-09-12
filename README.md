@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
- ![img](https://github.com/luizvicentin/whatIsYourAge/blob/master/img/screenshot-capture-2020.09.12.png)
+ <img src="https://github.com/luizvicentin/whatIsYourAge/blob/master/img/screenshot-capture-2020.09.12.png" width="100%">
 </p>
