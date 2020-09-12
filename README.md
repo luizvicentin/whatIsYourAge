@@ -16,6 +16,9 @@
 
 Esse Projeto foi desenvolvido com HTML, CSS e JavaScript, onde está a maioria do código fonte. 
 
+## 🙌 Agradecimentos
+- [Curso em Video](https://https://www.cursoemvideo.com/)
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
